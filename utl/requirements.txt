@@ -1,0 +1,6 @@
+tensorflow-gpu==1.10.1
+urllib3==1.22
+scipy==0.19.1
+PyAudio==0.2.11
+numpy==1.14.5
+stomp.py==4.1.21
