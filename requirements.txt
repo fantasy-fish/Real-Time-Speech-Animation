@@ -1,4 +1,4 @@
-tensorflow-gpu==1.10.1
+tensorflow-gpu==1.15.4
 urllib3==1.22
 scipy==0.19.1
 PyAudio==0.2.11
