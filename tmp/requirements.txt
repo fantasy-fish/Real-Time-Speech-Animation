@@ -114,7 +114,7 @@ pbr==2.0.0
 pexpect==4.2.1
 pick-colour-picker==1.0
 pickleshare==0.7.4
-Pillow==4.3.0
+Pillow==8.1.1
 pipes==0.1.1
 pprint==0.1
 prompt-toolkit==1.0.14
