@@ -186,7 +186,7 @@ transforms3d==0.3.1
 tripy==0.0.3
 typing==3.6.4
 unity-lens-photos==1.0
-urllib3==1.22
+urllib3==1.26.5
 wcwidth==0.1.7
 webencodings==0.5
 Werkzeug==0.12.2
