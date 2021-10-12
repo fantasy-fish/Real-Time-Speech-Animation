@@ -102,7 +102,7 @@ notebook==4.4.1
 numba==0.40.1
 numpy==1.14.5
 olefile==0.44
-opencv-python==3.2.0.7
+opencv-python==3.4.0.12
 openpyxl==2.5.1
 ortools==6.9.5824
 pachi-py==0.0.21
