@@ -100,7 +100,7 @@ networkx==1.11
 nltk==3.2.5
 notebook==4.4.1
 numba==0.40.1
-numpy==1.14.5
+numpy==1.22.0
 olefile==0.44
 opencv-python==3.2.0.7
 openpyxl==2.5.1
