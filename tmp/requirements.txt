@@ -53,7 +53,7 @@ googleapis-common-protos==1.5.3
 grpcio==1.14.2
 -e git+https://github.com/openai/gym@b206a277e81bb95f16d97322f2c5bb9e1b207de7#egg=gym
 h5py==2.7.1
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.6
 imageio==2.2.0
 inflect==0.2.5
