@@ -85,7 +85,7 @@ menpo==0.8.1
 menpodetect==0.5.0
 menpofit==0.5.0
 menpowidgets==0.3.0
-mistune==0.7.4
+mistune==2.0.3
 mkl==2018.0.0
 mock==2.0.0
 moviepy==0.2.3.4
