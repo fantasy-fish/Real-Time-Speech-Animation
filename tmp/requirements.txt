@@ -118,7 +118,7 @@ Pillow==4.3.0
 pipes==0.1.1
 pprint==0.1
 prompt-toolkit==1.0.14
-protobuf==3.6.1
+protobuf==3.18.3
 psutil==5.4.7
 ptyprocess==0.5.1
 pyarrow==0.10.0
