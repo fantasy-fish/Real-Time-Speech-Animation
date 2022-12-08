@@ -16,7 +16,7 @@ Box2D-kengz==2.3.3
 bz2file==0.98
 cachetools==2.1.0
 ccsm==0.9.12.3
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.11.5
 chardet==3.0.4
 chumpy==0.65
